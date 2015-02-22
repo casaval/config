@@ -1,4 +1,3 @@
-colorscheme desert
 set number
 set wrap
 set autoindent
