@@ -3,3 +3,4 @@ cp .vimrc ~/.vimrc
 cp .gitconfig ~/.gitconfig
 
 echo done pooping
+echo "don't forget to set git user.name and user.email"
